@@ -1,5 +1,6 @@
 Rotation.js <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/netsi1964/rotation.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Responsive and mobile enabled jQuery plugin to help create rotating content such as image carousel, slider or revolving testimonials.
 
